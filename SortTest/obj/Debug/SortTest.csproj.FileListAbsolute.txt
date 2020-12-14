@@ -1,0 +1,6 @@
+E:\CTestCode\SortTest\SortTest\bin\Debug\SortTest.exe.config
+E:\CTestCode\SortTest\SortTest\bin\Debug\SortTest.exe
+E:\CTestCode\SortTest\SortTest\bin\Debug\SortTest.pdb
+E:\CTestCode\SortTest\SortTest\obj\Debug\SortTest.csprojResolveAssemblyReference.cache
+E:\CTestCode\SortTest\SortTest\obj\Debug\SortTest.exe
+E:\CTestCode\SortTest\SortTest\obj\Debug\SortTest.pdb
